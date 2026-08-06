@@ -1,0 +1,29 @@
+# Python virtual environments
+myenv/
+env/
+venv/
+.venv/
+ENV/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Environment variables containing API keys
+.env
+
+# Streamlit run files and logs
+.streamlit/config.toml
+.system_generated/
+*.log
+
+# Editor configurations
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
